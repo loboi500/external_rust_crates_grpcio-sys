@@ -1,0 +1,16 @@
+build.rs filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+Cargo.toml.orig filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+README.android filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+android filter=lfs diff=lfs merge=lfs -text
+bindings filter=lfs diff=lfs merge=lfs -text
+Cargo.toml filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+post_update.sh filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+grpc_wrap.cc filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+grpc filter=lfs diff=lfs merge=lfs -text
+patches filter=lfs diff=lfs merge=lfs -text
